@@ -72,10 +72,10 @@
             this.lstGorevler.BackColor = System.Drawing.Color.White;
             this.lstGorevler.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.lstGorevler.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.lstGorevler.Font = new System.Drawing.Font("Segoe UI Semibold", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.lstGorevler.ForeColor = System.Drawing.Color.LightCoral;
+            this.lstGorevler.Font = new System.Drawing.Font("Segoe UI", 16F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lstGorevler.ForeColor = System.Drawing.Color.IndianRed;
             this.lstGorevler.FormattingEnabled = true;
-            this.lstGorevler.ItemHeight = 30;
+            this.lstGorevler.ItemHeight = 45;
             this.lstGorevler.Location = new System.Drawing.Point(0, 0);
             this.lstGorevler.Name = "lstGorevler";
             this.lstGorevler.Size = new System.Drawing.Size(376, 334);
